@@ -1,5 +1,5 @@
 ### Howdy 👋
-By day I work as an Associate Software Engineer at Spok focused on front-end development utlizing React and TypeScript. By night I am a teaching assistant at a full-stack web development boot camp. I volunteer on a local political candidate's campaign team to keep their website up-to-date. Before my web dev life I worked in medical device engineering.
+By day I work as an Associate Software Engineer at Spok focused on front-end development utlizing React and TypeScript. Before my web dev life I worked in medical device engineering. Check out my original GitHub profile at https://github.com/SirPotatoIV.
 
 - 🔭 I’m currently working on a Point and Click game using common web technologies
 - 🌱 I’m currently learning about animating SVGs
