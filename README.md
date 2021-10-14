@@ -1,5 +1,5 @@
 ### Howdy 👋
-By day I work as an Associate Software Engineer at Spok focused on front-end development utlizing React and TypeScript. Before my web dev life I worked in medical device engineering. Check out my original GitHub profile at https://github.com/SirPotatoIV.
+By day I work as an Associate Software Engineer at The New York Times focused on front-end development. Before my web dev life I worked in medical device engineering. Check out my original GitHub profile at https://github.com/SirPotatoIV.
 
 - 🔭 I’m currently working on a Point and Click game using common web technologies
 - 🌱 I’m currently learning about animating SVGs
